@@ -6,3 +6,5 @@ check data quality and validation
 stage data and do basic transformation (silver)
 make the data ready for business need (gold)
 do visualization for business insight
+
+more info
